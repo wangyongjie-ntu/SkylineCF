@@ -14,7 +14,7 @@ pip install numpy, pandas, pytorch, sklearn
 - util folder includes the interface for loading data, skyline operator used in our paper.
 - weights folder covers the weights of pretrained model on three datasets.
 - test folder comprise the how to generate the counterfactual explaantions for our method and baselines.
-- mlp_* file show how to train the models. 
+- mlp_* files show how to train the models. 
 
 # How to Cite
 ```
